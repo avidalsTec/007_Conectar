@@ -4,7 +4,7 @@
         <category display_value="">Custom Applications</category>
         <description>para apuntar a develop</description>
         <device_type>browser</device_type>
-        <hint>para apuntar a develop</hint>
+        <hint>para apuntar a develop.</hint>
         <name/>
         <order/>
         <roles>admin</roles>
@@ -14,7 +14,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5e1364c379d102107f444031cd0fa65f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>ConexionGihtub</sys_name>
         <sys_overrides/>
         <sys_package display_value="ConexionGihtub" source="e8f2a88f799102107f444031cd0fa63d">e8f2a88f799102107f444031cd0fa63d</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="ConexionGihtub">e8f2a88f799102107f444031cd0fa63d</sys_scope>
         <sys_update_name>sys_app_application_5e1364c379d102107f444031cd0fa65f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-05 18:01:17</sys_updated_on>
+        <sys_updated_on>2024-04-05 18:20:58</sys_updated_on>
         <title>ConexionGihtub</title>
         <view_name/>
     </sys_app_application>
